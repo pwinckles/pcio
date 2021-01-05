@@ -39,8 +39,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-347.20773"
+     inkscape:zoom="5.175"
+     inkscape:cx="40"
      inkscape:cy="80"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -76,13 +76,21 @@
        xml:space="preserve"
        id="text19"
        style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);fill:#808080;fill-opacity:1;"
-       transform="matrix(1.2894454,0,0,1.2224299,-4.6822568,0.27078225)"><tspan
+       transform="matrix(1.2894454,0,0,1.2224299,-4.5554302,-0.38769382)"><tspan
          x="7.9331356"
          y="14.789627"><tspan
            style="font-size:14.0494px;fill:#808080;fill-opacity:1">J
-</tspan></tspan><tspan
-         x="4.8141804"
-         y="29.541496"><tspan
-           style="font-size:14.0494px;fill:#808080;fill-opacity:1">♣</tspan></tspan></text>
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583"
+       x="10.583317"
+       y="36.671257"
+       id="text7874"><tspan
+         sodipodi:role="line"
+         id="tspan7872"
+         x="10.583317"
+         y="36.671257"
+         style="fill:#808080;fill-opacity:1;stroke-width:0.264583">♣</tspan></text>
   </g>
 </svg>

@@ -44,8 +44,8 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="80"
-     inkscape:cx="-185.70773"
-     inkscape:zoom="1"
+     inkscape:cx="40"
+     inkscape:zoom="5.175"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -73,16 +73,24 @@
        id="text10"
        xml:space="preserve" />
     <text
-       transform="matrix(1.2894454,0,0,1.2224299,-4.9358799,-0.12422912)"
+       transform="matrix(1.2894454,0,0,1.2224299,-4.7818794,-0.69683314)"
        style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);fill:#800000;fill-opacity:1;"
        id="text19"
        xml:space="preserve"><tspan
          x="7.9331356"
          y="14.789627"><tspan
            style="font-size:14.0494px;fill:#800000;fill-opacity:1">7
-</tspan></tspan><tspan
-         x="4.8141804"
-         y="29.541496"><tspan
-           style="font-size:14.0494px;fill:#800000;fill-opacity:1">♦</tspan></tspan></text>
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke-width:0.264583"
+       x="10.336372"
+       y="37.16515"
+       id="text7905"><tspan
+         sodipodi:role="line"
+         id="tspan7903"
+         x="10.336372"
+         y="37.16515"
+         style="fill:#800000;fill-opacity:1;stroke-width:0.264583">♦</tspan></text>
   </g>
 </svg>

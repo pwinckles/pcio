@@ -7,13 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="8-spades.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="spades-8.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 21.166666 42.333335"
    height="160"
-   width="80">
+   width="80"
+   inkscape:export-filename="/home/pwinckles/workspace/pcio/52-domino/png/spades-8.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <rect
@@ -41,8 +44,8 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="80"
-     inkscape:cx="8.7922705"
-     inkscape:zoom="1"
+     inkscape:cx="40"
+     inkscape:zoom="5.175"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -57,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,20 +69,28 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <text
-       style="line-height:1.25;font-family:C059;font-size:17.63888889px;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect12)"
+       style="line-height:1.25;font-family:C059;font-size:17.63888889px;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect12);"
        id="text10"
        xml:space="preserve" />
     <text
-       transform="matrix(1.2894454,0,0,1.2224299,-5.3525464,0.11621258)"
-       style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21)"
+       transform="matrix(1.2894454,0,0,1.2224299,-4.6641258,-0.69683314)"
+       style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);"
        id="text19"
        xml:space="preserve"><tspan
          x="7.9331356"
          y="14.789627"><tspan
            style="font-size:14.0494px">8
-</tspan></tspan><tspan
-         x="4.8141804"
-         y="29.541496"><tspan
-           style="font-size:14.0494px">♠</tspan></tspan></text>
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="9.9306774"
+       y="37.16515"
+       id="text9037"><tspan
+         sodipodi:role="line"
+         id="tspan9035"
+         x="9.9306774"
+         y="37.16515"
+         style="stroke-width:0.264583">♠</tspan></text>
   </g>
 </svg>
