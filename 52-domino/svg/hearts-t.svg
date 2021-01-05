@@ -43,15 +43,22 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="80"
-     inkscape:cx="-574.70773"
-     inkscape:zoom="1"
+     inkscape:cy="41.606118"
+     inkscape:cx="24.949598"
+     inkscape:zoom="2.8284271"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7688" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -60,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,16 +80,24 @@
        id="text10"
        xml:space="preserve" />
     <text
-       transform="matrix(1.2894454,0,0,1.2224299,-4.6822568,0.82720613)"
+       transform="matrix(1.2894454,0,0,1.2224299,-5.1550688,-0.59722442)"
        style="font-size:12.6445px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);fill:#fb4810;fill-opacity:1;"
        id="text19"
        xml:space="preserve"><tspan
          x="4.8085284"
          y="13.719093"><tspan
            style="font-size:12.6445px;fill:#fb4810;fill-opacity:1">10
-</tspan></tspan><tspan
-         x="4.8141804"
-         y="28.066351"><tspan
-           style="font-size:14.0494px;fill:#fb4810;fill-opacity:1">♥</tspan></tspan></text>
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fb4810;fill-opacity:1;stroke-width:0.264583"
+       x="10.583317"
+       y="36.671257"
+       id="text7686"><tspan
+         sodipodi:role="line"
+         id="tspan7684"
+         x="10.583317"
+         y="36.671257"
+         style="fill:#fb4810;fill-opacity:1;stroke-width:0.264583">♥</tspan></text>
   </g>
 </svg>
