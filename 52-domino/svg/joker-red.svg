@@ -8,12 +8,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="joker-red.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 21.166666 42.333335"
    height="160"
-   width="80">
+   width="80"
+   inkscape:export-filename="/home/pwinckles/workspace/pcio/52-domino/png/joker-red.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <rect
@@ -32,16 +35,16 @@
   <sodipodi:namedview
      inkscape:window-maximized="0"
      inkscape:window-y="27"
-     inkscape:window-x="0"
+     inkscape:window-x="667"
      inkscape:window-height="1019"
-     inkscape:window-width="1421"
+     inkscape:window-width="1128"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="80"
-     inkscape:cx="8.7922705"
+     inkscape:cy="40"
+     inkscape:cx="-59.181756"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -57,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,20 +69,16 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <text
-       style="line-height:1.25;font-family:C059;font-size:17.63888889px;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect12)"
+       style="line-height:1.25;font-family:C059;font-size:17.63888889px;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect12);"
        id="text10"
        xml:space="preserve" />
     <text
        transform="matrix(1.2894454,0,0,1.2224299,-4.6822395,0.03755246)"
-       style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21)"
+       style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);fill:#fb4810;fill-opacity:1;"
        id="text19"
        xml:space="preserve"><tspan
-         x="7.9331356"
-         y="14.789627"><tspan
-           style="font-size:14.0494px;fill:#d40000">J
-</tspan></tspan><tspan
          x="5.5413333"
-         y="29.86134"><tspan
-           style="font-size:14.0494px;fill:#d40000">★</tspan></tspan></text>
+         y="15.10947"><tspan
+           style="font-size:14.0494px;fill:#fb4810;fill-opacity:1">★</tspan></tspan></text>
   </g>
 </svg>

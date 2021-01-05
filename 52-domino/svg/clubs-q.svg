@@ -12,8 +12,11 @@
    viewBox="0 0 21.166666 42.333335"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="q-clubs.svg">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="clubs-q.svg"
+   inkscape:export-filename="/home/pwinckles/workspace/pcio/52-domino/png/clubs-q.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <rect
@@ -37,7 +40,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-152.70773"
+     inkscape:cx="-347.20773"
      inkscape:cy="80"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -72,14 +75,14 @@
     <text
        xml:space="preserve"
        id="text19"
-       style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);"
+       style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);fill:#808080;fill-opacity:1;"
        transform="matrix(1.2894454,0,0,1.2224299,-4.6822568,0.3995903)"><tspan
          x="6.3736513"
          y="14.789627"><tspan
-           style="font-size:14.0494px">Q
+           style="font-size:14.0494px;fill:#808080;fill-opacity:1">Q
 </tspan></tspan><tspan
          x="4.8141804"
          y="29.541496"><tspan
-           style="font-size:14.0494px">♣</tspan></tspan></text>
+           style="font-size:14.0494px;fill:#808080;fill-opacity:1">♣</tspan></tspan></text>
   </g>
 </svg>
