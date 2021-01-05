@@ -13,7 +13,10 @@
    version="1.1"
    viewBox="0 0 21.166666 42.333335"
    height="160"
-   width="80">
+   width="80"
+   inkscape:export-filename="/home/pwinckles/workspace/pcio/52-domino/png/hearts-k.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <rect
@@ -41,7 +44,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="80"
-     inkscape:cx="-185.70773"
+     inkscape:cx="-380.20773"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
