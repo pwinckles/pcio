@@ -35,7 +35,7 @@
   <sodipodi:namedview
      inkscape:window-maximized="0"
      inkscape:window-y="27"
-     inkscape:window-x="345"
+     inkscape:window-x="702"
      inkscape:window-height="1019"
      inkscape:window-width="1249"
      units="px"
@@ -43,15 +43,55 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="87.33754"
-     inkscape:cx="40"
-     inkscape:zoom="5.175"
+     inkscape:cy="67.143532"
+     inkscape:cx="52.080799"
+     inkscape:zoom="3.6592776"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:snap-text-baseline="true">
+    <sodipodi:guide
+       position="0,42.333333"
+       orientation="0,80"
+       id="guide1562" />
+    <sodipodi:guide
+       position="21.166667,42.333333"
+       orientation="160,0"
+       id="guide1564" />
+    <sodipodi:guide
+       position="-2.7845359,-27.666667"
+       orientation="0,1"
+       id="guide1566"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-160,0"
+       id="guide1568" />
+    <sodipodi:guide
+       position="0,42.333333"
+       orientation="0,80"
+       id="guide1570" />
+    <sodipodi:guide
+       position="21.166667,42.333333"
+       orientation="160,0"
+       id="guide1572" />
+    <sodipodi:guide
+       position="21.166667,24.341667"
+       orientation="0,1"
+       id="guide1574"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-160,0"
+       id="guide1576" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -73,7 +113,7 @@
        id="text10"
        xml:space="preserve" />
     <text
-       transform="matrix(1.7167926,0,0,1.8575378,-10.233315,-9.2638567)"
+       transform="matrix(1.7167926,0,0,1.8575378,-10.233315,-9.4806249)"
        style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect21);fill:#808080;fill-opacity:1;"
        id="text19"
        xml:space="preserve"><tspan
@@ -86,12 +126,12 @@
        xml:space="preserve"
        style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="10.583317"
-       y="36.671257"
+       y="36.777084"
        id="text7862"><tspan
          sodipodi:role="line"
          id="tspan7860"
          x="10.583317"
-         y="36.671257"
+         y="36.777084"
          style="fill:#808080;fill-opacity:1;stroke-width:0.264583">♣</tspan></text>
   </g>
 </svg>

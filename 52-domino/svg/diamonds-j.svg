@@ -44,14 +44,38 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="80"
-     inkscape:cx="40"
+     inkscape:cx="2.4154589"
      inkscape:zoom="5.175"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:snap-text-baseline="true">
+    <sodipodi:guide
+       position="0,24.341667"
+       orientation="0,1"
+       id="guide7297"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="21.166667,42.333333"
+       orientation="160,0"
+       id="guide7299" />
+    <sodipodi:guide
+       position="21.166667,5.55625"
+       orientation="0,1"
+       id="guide7301"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-160,0"
+       id="guide7303" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -73,7 +97,7 @@
        id="text10"
        xml:space="preserve" />
     <text
-       transform="matrix(1.2894454,0,0,1.2224299,-4.5554302,-0.38769382)"
+       transform="matrix(1.2894454,0,0,1.2224299,-4.5554302,-0.08761594)"
        style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);fill:#800000;fill-opacity:1;"
        id="text19"
        xml:space="preserve"><tspan
@@ -85,12 +109,12 @@
        xml:space="preserve"
        style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke-width:0.264583"
        x="10.336372"
-       y="37.16515"
+       y="36.777084"
        id="text7889"><tspan
          sodipodi:role="line"
          id="tspan7887"
          x="10.336372"
-         y="37.16515"
+         y="36.777084"
          style="fill:#800000;fill-opacity:1;stroke-width:0.264583">♦</tspan></text>
   </g>
 </svg>

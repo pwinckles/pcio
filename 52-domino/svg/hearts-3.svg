@@ -44,7 +44,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="101.8978"
-     inkscape:cx="55.762432"
+     inkscape:cx="-13.003703"
      inkscape:zoom="2.8284271"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -61,7 +61,30 @@
      objecttolerance="20"
      inkscape:bbox-nodes="false"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-smooth-nodes="true" />
+     inkscape:snap-smooth-nodes="true">
+    <sodipodi:guide
+       position="0,24.341667"
+       orientation="0,1"
+       id="guide7939"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="21.166667,42.333333"
+       orientation="160,0"
+       id="guide7941" />
+    <sodipodi:guide
+       position="21.166667,5.55625"
+       orientation="0,1"
+       id="guide7943"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-160,0"
+       id="guide7945" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -70,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,7 +106,7 @@
        id="text10"
        xml:space="preserve" />
     <text
-       transform="matrix(1.2894454,0,0,1.2224299,-4.5373142,-0.69683314)"
+       transform="matrix(1.2894454,0,0,1.2224299,-4.5373142,-0.08761594)"
        style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);fill:#fb4810;fill-opacity:1;"
        id="text19"
        xml:space="preserve"><tspan
@@ -95,12 +118,12 @@
        xml:space="preserve"
        style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fb4810;fill-opacity:1;stroke-width:0.264583"
        x="10.583317"
-       y="36.671257"
+       y="36.777084"
        id="text8347"><tspan
          sodipodi:role="line"
          id="tspan8345"
          x="10.583317"
-         y="36.671257"
+         y="36.777084"
          style="fill:#fb4810;fill-opacity:1;stroke-width:0.264583">♥</tspan></text>
   </g>
 </svg>

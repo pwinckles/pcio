@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.175"
-     inkscape:cx="40"
-     inkscape:cy="80.681469"
+     inkscape:zoom="3.6592776"
+     inkscape:cx="64.955658"
+     inkscape:cy="65.73361"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -51,7 +51,31 @@
      inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="true">
+    <sodipodi:guide
+       position="-1.1833919,5.55625"
+       orientation="0,1"
+       id="guide896"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="21.166667,42.333333"
+       orientation="160,0"
+       id="guide898" />
+    <sodipodi:guide
+       position="21.166667,24.341667"
+       orientation="0,1"
+       id="guide900"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-160,0"
+       id="guide902" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -76,7 +100,7 @@
        xml:space="preserve"
        id="text19"
        style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);fill:#808080;fill-opacity:1;"
-       transform="matrix(1.2894454,0,0,1.2224299,-4.8182462,-0.13007771)"><tspan
+       transform="matrix(1.2894454,0,0,1.2224299,-4.8182462,-0.08761594)"><tspan
          x="6.3736513"
          y="14.789627"><tspan
            style="font-size:14.0494px;fill:#808080;fill-opacity:1">Q
@@ -85,12 +109,12 @@
        xml:space="preserve"
        style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="10.583317"
-       y="36.671257"
+       y="36.777084"
        id="text7866"><tspan
          sodipodi:role="line"
          id="tspan7864"
          x="10.583317"
-         y="36.671257"
+         y="36.777084"
          style="fill:#808080;fill-opacity:1;stroke-width:0.264583">♣</tspan></text>
   </g>
 </svg>

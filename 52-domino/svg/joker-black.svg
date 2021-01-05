@@ -51,7 +51,28 @@
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:snap-text-baseline="true">
+    <sodipodi:guide
+       position="0,24.341667"
+       orientation="0,1"
+       id="guide9109"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="21.166667,42.333333"
+       orientation="160,0"
+       id="guide9111" />
+    <sodipodi:guide
+       position="21.166667,0"
+       orientation="0,-80"
+       id="guide9113" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-160,0"
+       id="guide9115" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -73,7 +94,7 @@
        id="text10"
        xml:space="preserve" />
     <text
-       transform="matrix(1.2894454,0,0,1.2224299,-4.6822395,-0.75902328)"
+       transform="matrix(1.2894454,0,0,1.2224299,-4.6822395,-0.47860205)"
        style="font-size:14.0494px;line-height:1.05;font-family:C059;-inkscape-font-specification:C059;text-align:center;white-space:pre;shape-inside:url(#rect21);"
        id="text19"
        xml:space="preserve"><tspan
