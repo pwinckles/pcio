@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="0-4.svg"
-   inkscape:export-filename="/home/pwinckles/workspace/pcio/double-some-r-set/png/2-2.png"
+   inkscape:export-filename="/home/pwinckles/workspace/pcio/double-some-r-set/png/0-4.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -112,7 +112,7 @@
          style="stroke-width:0.264583">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffe700;stroke-width:0.264583;fill-opacity:1;"
+       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffdf00;stroke-width:0.264583;fill-opacity:1;"
        x="10.592151"
        y="36.777084"
        id="text847-3"><tspan
@@ -120,7 +120,7 @@
          id="tspan845-6"
          x="10.592151"
          y="36.777084"
-         style="fill:#ffe700;fill-opacity:1;stroke-width:0.264583;">4</tspan></text>
+         style="fill:#ffdf00;fill-opacity:1;stroke-width:0.264583;">4</tspan></text>
     <rect
        style="opacity:0.996;fill:#999999;stroke-width:0.296278"
        id="rect867"
