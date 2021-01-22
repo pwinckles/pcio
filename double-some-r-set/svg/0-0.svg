@@ -21,16 +21,16 @@
      id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffebcd"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.3875"
      inkscape:cx="40"
-     inkscape:cy="86.202028"
+     inkscape:cy="63.928246"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="true"
      units="px"
@@ -96,9 +96,22 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <rect
+       style="opacity:0.996;fill:#ffebcd;fill-opacity:1;stroke-width:0.264999"
+       id="rect9226"
+       width="21.166666"
+       height="42.333332"
+       x="9.6911617e-07"
+       y="4.9999994e-07" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -112,7 +125,7 @@
          style="stroke-width:0.264583">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583;fill:#ff0000;"
+       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
        x="10.583331"
        y="36.777084"
        id="text847-3"><tspan
@@ -120,7 +133,7 @@
          id="tspan845-6"
          x="10.583331"
          y="36.777084"
-         style="stroke-width:0.264583;fill:#ff0000;">0</tspan></text>
+         style="fill:#ff0000;stroke-width:0.264583">0</tspan></text>
     <rect
        style="opacity:0.996;fill:#999999;stroke-width:0.296278"
        id="rect867"
