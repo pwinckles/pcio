@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -112,7 +112,7 @@
          style="stroke-width:0.264583">5</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ee82ee;fill-opacity:1;stroke-width:0.264583;"
+       style="font-size:17.6389px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d400ff;fill-opacity:1;stroke-width:0.264583;"
        x="10.151178"
        y="36.777084"
        id="text847-3"><tspan
@@ -120,7 +120,7 @@
          id="tspan845-6"
          x="10.151178"
          y="36.777084"
-         style="fill:#ee82ee;fill-opacity:1;stroke-width:0.264583;">12</tspan></text>
+         style="fill:#d400ff;fill-opacity:1;stroke-width:0.264583;">12</tspan></text>
     <rect
        style="opacity:0.996;fill:#999999;stroke-width:0.296278"
        id="rect867"
