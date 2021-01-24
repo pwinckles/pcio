@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="160"
+   viewBox="0 0 21.166666 42.333335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/pwinckles/workspace/pcio/tichu/png/dog.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="dog.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="36.021112"
+     inkscape:cy="70.768027"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1421"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="22.565845,42.27921"
+       orientation="0,1"
+       id="guide837"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="21.166667,42.333333"
+       orientation="160,0"
+       id="guide839" />
+    <sodipodi:guide
+       position="23.21005,0.029039517"
+       orientation="0,1"
+       id="guide841"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-160,0"
+       id="guide843" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5014"
+       transform="matrix(0.01657525,0,0,0.01657525,2.6458498,13.229186)"
+       style="fill:#702963;fill-opacity:1">
+      <g
+         id="g4955"
+         style="fill:#702963;fill-opacity:1">
+	<g
+   id="g4953"
+   style="fill:#702963;fill-opacity:1">
+		<path
+   d="m 166.175,414.818 c 8,-108.2 15.6,-202.601 102,-213.2 10.5,-17.6 23.2,-33.8 37.8,-48.4 14.9,-14.9 31.4,-27.6 49.4,-38.1 -18.5,-20.9 -44.9,-42.6 -79.101,-51 -74.3,-18.4 -202.6,-5.4 -264.7,245 -61.999,250.3 144.801,238.7 154.601,105.7 z"
+   id="path4947"
+   style="fill:#702963;fill-opacity:1" />
+
+		<path
+   d="m 681.475,64.018 c -34.5,8.5 -61,30.4 -79.4,51.4 17.7,10.4 34,23 48.7,37.7 14.601,14.6 27.101,30.8 37.501,48.3 87.699,9.8 95.299,104.6 103.299,213.3 9.801,133 216.602,144.7 154.602,-105.8 -62.001,-250.3 -190.402,-263.3 -264.702,-244.9 z"
+   id="path4949"
+   style="fill:#702963;fill-opacity:1" />
+
+		<path
+   d="m 646.774,202.518 c -17.5,-23.9 -40,-44 -66,-58.7 -30.399,-17.2 -65.399,-27 -102.799,-27 -36.8,0 -71.4,9.5 -101.4,26.2 -26.5,14.7 -49.399,35 -67.199,59.2 -25.4,34.6 -40.4,77.2 -40.4,123.3 v 124.3 c -53,47.699 -84.7,113.399 -84.7,186 0,140.6 122.5,255.5 276.7,263.6 v -269.2 c -36.6,-5.1 -64,-25.899 -64,-50.8 0,-28.7 36.5,-52 81.5,-52 45,0 81.5,23.3 81.5,52 0,24.9 -27.4,45.7 -64,50.8 v 269.2 c 154.2,-8.1 276.4,-123 276.4,-263.6 0,-72.5 -33.4,-138.2 -85.4,-186 v -124.3 c -10e-4,-46 -14.902,-88.5 -40.202,-123 z m -349.699,566 c -11.399,0 -20.7,-9.3 -20.7,-20.699 0,-11.4 9.3,-20.7 20.7,-20.7 11.4,0 20.7,9.3 20.7,20.7 0,11.399 -9.3,20.699 -20.7,20.699 z m 3.4,-74 c -11.4,0 -20.7,-9.3 -20.7,-20.699 0,-11.4 9.3,-20.7 20.7,-20.7 11.4,0 20.7,9.3 20.7,20.7 -0.1,11.399 -9.3,20.699 -20.7,20.699 z m 22.5,-297.1 c 0,-16.6 13.4,-30 30,-30 16.6,0 30,13.4 30,30 0,16.6 -13.4,30 -30,30 -16.6,0 -30,-13.4 -30,-30 z m 39.7,338.3 c -11.4,0 -20.7,-9.3 -20.7,-20.7 0,-11.399 9.3,-20.699 20.7,-20.699 11.399,0 20.7,9.3 20.7,20.699 -0.1,11.4 -9.3,20.7 -20.7,20.7 z m 232.399,0 c -11.399,0 -20.699,-9.3 -20.699,-20.7 0,-11.399 9.3,-20.699 20.699,-20.699 11.4,0 20.7,9.3 20.7,20.699 0,11.4 -9.299,20.7 -20.7,20.7 z m 8.901,-308.3 c -16.6,0 -30,-13.4 -30,-30 0,-16.6 13.4,-30 30,-30 16.6,0 30,13.4 30,30 0,16.6 -13.401,30 -30,30 z m 53.299,225.8 c 11.4,0 20.7,9.3 20.7,20.7 0,11.4 -9.3,20.7 -20.7,20.7 -11.399,0 -20.7,-9.3 -20.7,-20.7 0,-11.5 9.301,-20.7 20.7,-20.7 z m 3.401,115.3 c -11.4,0 -20.7,-9.3 -20.7,-20.699 0,-11.4 9.3,-20.7 20.7,-20.7 11.399,0 20.7,9.3 20.7,20.7 -0.101,11.399 -9.301,20.699 -20.7,20.699 z"
+   id="path4951"
+   style="fill:#702963;fill-opacity:1" />
+
+	</g>
+
+</g>
+      <g
+         id="g4957"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4959"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4961"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4963"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4965"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4967"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4969"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4971"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4973"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4975"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4977"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4979"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4981"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4983"
+         style="fill:#702963;fill-opacity:1">
+</g>
+      <g
+         id="g4985"
+         style="fill:#702963;fill-opacity:1">
+</g>
+    </g>
+  </g>
+</svg>
